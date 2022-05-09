@@ -1,7 +1,7 @@
 # AutoHotkey-Efficiency-Tools
-![image](https://user-images.githubusercontent.com/88764955/167347921-d6fac774-56f5-408d-abf9-092cd28d31b7.png)
- 
 AutoHotkey is a free and open-source custom scripting language for Microsoft Windows, initially aimed at providing easy keyboard shortcuts or hotkeys, fast macro-creation and software automation that allows users of most levels of computer skill to automate repetitive tasks in any Windows application. User interfaces can easily be extended or modified by AutoHotkey (for example, overriding the default Windows control key commands with their Emacs equivalents).[6] The AutoHotkey installation includes its own extensive help file, and web-based documentation is also available.
+
+![image](https://user-images.githubusercontent.com/88764955/167347921-d6fac774-56f5-408d-abf9-092cd28d31b7.png)
 
 This program can help you easily to use only the mouse or only the keyboard, and It is suitable for various work and leisure scenarios, like 
 
